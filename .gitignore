@@ -152,3 +152,8 @@ drafts/
 ._*
 ._.*
 logs/
+
+# Added working directories
+/teamspace/studios/this_studio/template-pose/media/demo/sse_01/*.png
+/teamspace/studios/this_studio/template-pose/media/demo/sse_01
+
